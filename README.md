@@ -1,1 +1,3 @@
-# VEDA-Installation related help.
+# How to install VEDA Applications
+
+## Installation
