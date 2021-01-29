@@ -1,5 +1,12 @@
 Veda2.0 is a data handling system for The Integrated MARKAL-EFOM System (TIMES) - a bottom-up optimization model for energy-environment systems.
 
+Links
+#####
+*`Installation video <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_
+*`Getting a tial license <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#licensing>`_
+* `Version history <https://forum.kanors-emr.org/showthread.php?tid=874>`_
+*`Documentation <http://veda-documentation.rtfd.io/>`_
+
 Installation
 #############
 There are two ways to setup Veda: localhost and installer. Both have been provided in this repository.
