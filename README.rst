@@ -2,10 +2,10 @@ Veda2.0 is a data handling system for The Integrated MARKAL-EFOM System (TIMES) 
 
 Links
 #####
-*`Installation video <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_
-*`Getting a tial license <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#licensing>`_
-* `Version history <https://forum.kanors-emr.org/showthread.php?tid=874>`_
-*`Documentation <http://veda-documentation.rtfd.io/>`_
+*`Installation video <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_.
+*`Getting a tial license <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#licensing>`_.
+* `Version history <https://forum.kanors-emr.org/showthread.php?tid=874>`_.
+*`Documentation <http://veda-documentation.rtfd.io/>`_.
 
 Installation
 #############
