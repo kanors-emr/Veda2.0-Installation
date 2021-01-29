@@ -1,7 +1,7 @@
 Veda2.0 is a data handling system for the TIMES energy systems model.
 
 Installation
-############
+============
 There are two ways to setup Veda: localhost and installer. Both have been provided in this repository.
 You can a find a walk-through this process `on this page <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_.
 
