@@ -7,25 +7,3 @@ Links
 * `Migrating to Veda 2.0 <https://veda-documentation.readthedocs.io/en/latest/pages/Migration.html#migrating-to-veda-2-0>`_
 * `Version history <https://forum.kanors-emr.org/showthread.php?tid=874>`_
 * `Documentation <http://veda-documentation.rtfd.io/>`_
-
-Installation
-#############
-There are two ways to setup Veda: localhost and installer. Both have been provided in this repository.
-You can find a walk-through this process `on installation page <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_.
-
-Trial licence
-#############
-User needs licence to start using Veda. Instructions for how to get one are available on `licensing page <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#licensing>`_.
-
-Migrating to Veda 2.0
-#####################
-Instructions on how to migrate from old Veda to Veda 2.0 can be found on `Migrating to Veda 2.0 page <https://veda-documentation.readthedocs.io/en/latest/pages/Migration.html#migrating-to-veda-2-0>`_.
-
-Version History
-###############
-All the major changes with every release of Veda is documented on `this forum <https://forum.kanors-emr.org/showthread.php?tid=874>`_.
-
-Documentation
-#############
-For a more detailed insight into the application, you can see `Veda documentation <http://veda-documentation.rtfd.io/>`_.
-
