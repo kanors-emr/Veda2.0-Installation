@@ -1,6 +1,4 @@
-===================
-Welcome to Veda 2.0
-===================
+Veda2.0 is a data handling system for the TIMES energy systems model.
 
 Installation
 ############
