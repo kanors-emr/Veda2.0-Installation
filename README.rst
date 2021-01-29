@@ -15,4 +15,4 @@ All the major changes with every release of Veda is documented on `this forum <h
 
 Documentation
 #############
-For a more detailed insight into the application, you can visit `Veda documentation <http://veda-documentation.rtfd.io/>`_.
+For a more detailed insight into the application, you can see `Veda documentation <http://veda-documentation.rtfd.io/>`_.
