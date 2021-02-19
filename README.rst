@@ -1,5 +1,7 @@
 Veda2.0 is a data handling system for The Integrated MARKAL-EFOM System (TIMES) - a bottom-up optimization model for energy-environment systems.
 
+It is a Windows application (C#.NET/PostgreSQL). We don't have many users on Mac, but it can work under Windows emulators.
+
 Links
 #####
 .. raw:: html
