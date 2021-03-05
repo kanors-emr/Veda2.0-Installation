@@ -10,7 +10,7 @@ Links
     <li><a href="https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation" target="_blank">Installation video</a></li>
     <li><a href="https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#licensing" target="_blank">Getting a trial license </a></li>
     <li><a href="https://veda-documentation.readthedocs.io/en/latest/pages/Migration.html#migrating-to-veda-2-0" target="_blank">Migrating to Veda 2.0</a></li>
-    <li><a href="https://forum.kanors-emr.org/showthread.php?tid=874" target="_blank">Version history</a></li>
+    <li><a href="https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html" target="_blank">Version history</a></li>
     <li><a href="http://veda-documentation.rtfd.io/" target="_blank">Documentation </a></li>
     </ul>
 
