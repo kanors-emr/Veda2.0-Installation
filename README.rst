@@ -10,9 +10,12 @@ Hardware/software requirements
 
 * HDD: 500GB - 1TB free space for Veda and GAMS files.
 
-* Port to open:
-    * 5432 for localhost
-    * 65000 for setup executable
+* For localhost:
+    * Give full read and write permissions to the folder where it is extracted.
+    * Open port 5432.
+* For installer:
+    * Create a folder where you wish to install and give it full read and write permissions.
+    * Open port 65000.
 
 For explicit installation instructions, `visit link. <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_
 
