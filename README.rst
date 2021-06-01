@@ -17,7 +17,7 @@ Hardware/software requirements
     * Create a folder where you wish to install and give it full read and write permissions.
     * Open port 65000.
 
-For detailed installation instructions, `visit link. <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_
+For detailed installation instructions, `see documentation. <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_
 
 Links
 =====
