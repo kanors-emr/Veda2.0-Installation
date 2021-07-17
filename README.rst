@@ -13,7 +13,7 @@ Hardware/software requirements
 * For localhost:
     * `Download and install prerequisites. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version%20Prerequisites>`_
     * Give full read and write permissions to the folder where it is extracted.
-    * Open port 5432.
+    * Open port 65001.
 * For installer:
     * Create a folder where you wish to install and give it full read and write permissions.
     * Open port 65000.
