@@ -2,21 +2,24 @@ Veda2.0 is a data handling system for The Integrated MARKAL-EFOM System (TIMES) 
 
 It is a Windows application (C#.NET/PostgreSQL). We don't have many users on Mac, but it can work under Windows emulators.
 
-Hardware/software requirements
-==============================
+Hardware requirements
+=====================
 * CPU: Minimum 4 cores are recommended for STANDARD and ADVANCED licenses. 8 - 16 would be desirable for larger models.
-
 * RAM: 4-8 GB is enough for Veda, but GAMS needs more RAM for larger models. 32 GB would accomodate most models.
-
 * HDD: 500GB - 1TB free space for Veda and GAMS files.
 
-* For localhost:
-    * `Download and install prerequisites. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version%20Prerequisites>`_
-    * Give full read and write permissions to the folder where it is extracted.
-    * Open port 65001.
-* For installer:
-    * Create a folder where you wish to install and give it full read and write permissions.
-    * Open port 65000.
+Installation
+=============
+There are two ways to go about it:
+    * Localhost: This just needs to be extracted
+        * `Download and install prerequisites. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version%20Prerequisites>`_
+        * `Download localhost. <https://github.com/kanors-emr/Veda2.0-Installation/blob/master/Veda2.0_localhost_1.239.1.1.7z>`_
+        * Give full read and write permissions to the folder where it is extracted.
+        * Open port 65001.
+    * Installer: This is a setup executable
+        * `Download installer. <https://github.com/kanors-emr/Veda2.0-Installation/blob/master/Veda2.0%20Setup%201.239.1.1.exe>`_
+        * Create a folder where you wish to install and give it full read and write permissions.
+        * Open port 65000.
 
 For detailed installation instructions, `see documentation. <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_
 
