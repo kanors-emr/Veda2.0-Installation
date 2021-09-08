@@ -2,11 +2,14 @@ Veda2.0 is a data handling system for The Integrated MARKAL-EFOM System (TIMES) 
 
 It is a Windows application (C#.NET/PostgreSQL). We don't have many users on Mac, but it can work under Windows emulators.
 
-Hardware requirements
-=====================
-* CPU: Minimum 4 cores are recommended for STANDARD and ADVANCED licenses. 8 - 16 would be desirable for larger models.
-* RAM: 4-8 GB is enough for Veda, but GAMS needs more RAM for larger models. 32 GB would accomodate most models.
-* HDD: 500GB - 1TB free space for Veda and GAMS files.
+Hardware/software requirement
+=============================
+Veda2.0 works on Windows portables, desktops, servers, and VMs, with Windows 8/Windows server 2012 or above.
+Microsoft Excel is a prerequisite. Hardware needed depends on the size and complexity of models,
+but here is a configuration suitable for typical TIMES models under Veda2.0:
+    * CPU: Minimum 4 cores are recommended for STANDARD and ADVANCED licenses. 8 - 16 would be desirable for larger models.
+    * RAM: 4-8 GB is enough for Veda, but GAMS needs more RAM for larger models. 32 GB would accomodate most models.
+    * HDD: 500GB - 1TB free space for Veda and GAMS files.
 
 Installation
 =============
