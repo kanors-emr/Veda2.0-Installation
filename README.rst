@@ -16,11 +16,11 @@ Installation
 There are two ways to go about it:
     * Localhost: This just needs to be extracted
         * `Download and install prerequisites. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version%20Prerequisites>`_
-        * `Download localhost. <https://github.com/kanors-emr/Veda2.0-Installation/blob/master/Veda2.0_localhost_1.239.1.1.7z>`_
+        * `Download localhost. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version>`_
         * Give full read and write permissions to the folder where it is extracted.
         * Open port 65001.
     * Installer: This is a setup executable
-        * `Download installer. <https://github.com/kanors-emr/Veda2.0-Installation/blob/master/Veda2.0%20Setup%201.239.1.1.exe>`_
+        * `Download installer. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Installer%20Version>`_
         * Create a folder where you wish to install and give it full read and write permissions.
         * Open port 65000.
 
