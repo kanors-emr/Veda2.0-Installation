@@ -13,7 +13,7 @@ but here is a configuration suitable for typical TIMES models under Veda2.0:
 
 Installation
 =============
-There are two ways to go about it:
+There are two ways to setup Veda2.0. Localhost is the preferred approach as version upgrades are much easier and the previous version can be retained. Two versions cannot be used concurrently though - the application should be closed before launching a different version.
     * Localhost: This just needs to be extracted
         * `Download and install prerequisites. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version%20Prerequisites>`_
         * `Download localhost. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version>`_
