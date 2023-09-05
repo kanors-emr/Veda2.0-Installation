@@ -19,13 +19,13 @@ There are two ways to setup Veda2.0. Localhost is the preferred approach as vers
 * Localhost: This just needs to be extracted
 
   * `Download and install prerequisites. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version%20Prerequisites>`_
-  * `Download localhost. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version>`_
+  * `Download localhost. <https://github.com/kanors-emr/Veda2.0-Installation/releases/download/v2.18.1.1/Veda2.0_localhost_2.18.1.1.7z>`_
   * Give full read and write permissions to the folder where it is extracted.
   * Open port 65001.
         
 * Installer: This is a setup executable
 
-  * `Download installer. <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Installer%20Version>`_
+  * `Download installer. <https://github.com/kanors-emr/Veda2.0-Installation/releases/download/v2.18.1.1/Veda2.0.Setup.2.18.1.1.exe>`_
   * Create a folder where you wish to install and give it full read and write permissions.
   * Open port 65000.
 
