@@ -2,6 +2,8 @@ Veda2.0 is a data handling system for The Integrated MARKAL-EFOM System (TIMES) 
 
 It is a Windows application (C#.NET/PostgreSQL). We don't have many users on Mac, but it can work under Windows emulators.
 
+https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y  
+
 Hardware/software requirement
 =============================
 Veda2.0 works on Windows portables, desktops, servers, and VMs, with Windows 8/Windows server 2012 or above. Microsoft Excel is a prerequisite. Hardware needed depends on the size and complexity of models,
