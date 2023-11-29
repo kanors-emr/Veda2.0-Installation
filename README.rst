@@ -4,6 +4,8 @@ It is a Windows application (C#.NET/PostgreSQL). We don't have many users on Mac
 
 https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y  
 
+https://www.kanors-emr.org/Veda2Users/Index.html
+
 Hardware/software requirement
 =============================
 Veda2.0 works on Windows portables, desktops, servers, and VMs, with Windows 8/Windows server 2012 or above. Microsoft Excel is a prerequisite. Hardware needed depends on the size and complexity of models,
