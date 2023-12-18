@@ -35,6 +35,10 @@ There are two ways to setup Veda2.0. Localhost is the preferred approach as vers
 
 For detailed installation instructions, `see documentation. <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_
 
+Last version of major version 2.20
+=============
+  * `Download <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v2.20.2.1>`_
+
 Links
 =====
 .. raw:: html
