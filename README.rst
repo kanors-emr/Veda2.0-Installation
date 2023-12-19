@@ -4,8 +4,6 @@ It is a Windows application (C#.NET/PostgreSQL). We don't have many users on Mac
 
 `YouTube videos <https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y>`_
 
-https://www.kanors-emr.org/Veda2Users/Index.html
-
 Hardware/software requirement
 =============================
 Veda2.0 works on Windows portables, desktops, servers, and VMs, with Windows 8/Windows server 2012 or above. Microsoft Excel is a prerequisite. Hardware needed depends on the size and complexity of models,
@@ -49,5 +47,6 @@ Links
     <li><a href="https://veda-documentation.readthedocs.io/en/latest/pages/Migration.html#migrating-to-veda-2-0" target="_blank">Migrating to Veda 2.0</a></li>
     <li><a href="https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html" target="_blank">Version history</a></li>
     <li><a href="http://veda-documentation.rtfd.io/" target="_blank">Documentation </a></li>
+    <li><a href="https://www.kanors-emr.org/Veda2Users/Index.html" target="_blank">Veda users around the World </a></li>
     </ul>
 
