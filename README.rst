@@ -1,15 +1,12 @@
-.. image:: https://img.shields.io/github/v/release/kanors-emr/Veda2.0-Installation?style=for-the-badge&color=0078D4
+.. image:: https://img.shields.io/github/v/release/kanors-emr/Veda2.0-Installation?style=flat&color=0078D4
    :target: https://github.com/kanors-emr/Veda2.0-Installation/releases/latest
    :alt: Latest Release
-
-.. image:: https://img.shields.io/github/downloads/kanors-emr/Veda2.0-Installation/total?style=for-the-badge&color=28A745
+.. image:: https://img.shields.io/github/downloads/kanors-emr/Veda2.0-Installation/total?style=flat&color=28A745
    :target: https://github.com/kanors-emr/Veda2.0-Installation/releases
    :alt: Total Downloads
-
-.. image:: https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows
+.. image:: https://img.shields.io/badge/platform-Windows-0078D6?style=flat&logo=windows
    :alt: Platform
-
-.. image:: https://img.shields.io/badge/docs-readthedocs-8CA1AF?style=for-the-badge&logo=readthedocs
+.. image:: https://img.shields.io/badge/docs-readthedocs-8CA1AF?style=flat&logo=readthedocs
    :target: https://veda-documentation.readthedocs.io/
    :alt: Documentation
 
@@ -23,7 +20,7 @@ Veda 2.0 is a powerful data handling system for `The Integrated MARKAL-EFOM Syst
 
 Built with C#.NET and PostgreSQL, Veda 2.0 runs natively on Windows and can operate on Mac via Windows emulators.
 
-.. image:: https://img.shields.io/badge/Watch-Tutorial_Videos-FF0000?style=for-the-badge&logo=youtube
+.. image:: https://img.shields.io/badge/Watch-Tutorial_Videos-FF0000?style=flat&logo=youtube
    :target: https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y
    :alt: YouTube Tutorials
    :align: center
@@ -410,4 +407,4 @@ For commercial support, training, and consulting services, contact `KanORS-EMR <
 
 ----
 
-*Developed by* `KanORS-EMR <https://www.kanors-emr.org/>`_ • *Supporting energy modelers worldwide since 2020*
+*Copyright © 2020 KanORS-EMR*
