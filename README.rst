@@ -1,12 +1,17 @@
-.. image:: https://img.shields.io/github/v/release/kanors-emr/Veda2.0-Installation?style=flat&color=0078D4
+|release| |downloads| |platform| |docs|
+
+.. |release| image:: https://img.shields.io/github/v/release/kanors-emr/Veda2.0-Installation?style=flat-square&color=0078D4
    :target: https://github.com/kanors-emr/Veda2.0-Installation/releases/latest
    :alt: Latest Release
-.. image:: https://img.shields.io/github/downloads/kanors-emr/Veda2.0-Installation/total?style=flat&color=28A745
+
+.. |downloads| image:: https://img.shields.io/github/downloads/kanors-emr/Veda2.0-Installation/total?style=flat-square&color=28A745
    :target: https://github.com/kanors-emr/Veda2.0-Installation/releases
    :alt: Total Downloads
-.. image:: https://img.shields.io/badge/platform-Windows-0078D6?style=flat&logo=windows
+
+.. |platform| image:: https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows
    :alt: Platform
-.. image:: https://img.shields.io/badge/docs-readthedocs-8CA1AF?style=flat&logo=readthedocs
+
+.. |docs| image:: https://img.shields.io/badge/docs-readthedocs-8CA1AF?style=flat-square&logo=readthedocs
    :target: https://veda-documentation.readthedocs.io/
    :alt: Documentation
 
@@ -264,10 +269,10 @@ Available License Types
 
 Veda 2.0 offers flexible licensing options:
 
-- **Trial License**: 30-day full-featured evaluation
+- **Trial License**: 60-day full-featured evaluation
 - **Academic License**: Discounted rates for universities and research institutions
-- **Standard License**: Single-user professional use
-- **Advanced License**: Enhanced features with multi-scenario support
+- **Standard License**: Single-user professional use with multi-core support
+- **Advanced License**: Enhanced features with collaboration and reports support
 - **Multi-User/Department (MUD) License**: Team licenses with concurrent user management
 
 For complete details on licensing, pricing, and regulations, see:
