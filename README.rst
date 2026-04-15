@@ -298,9 +298,9 @@ Previous major versions are available for users who need them:
    * - Version
      - Release Type
      - Download
-   * - **v4.2.1.0**
-     - Latest stable (19 Oct 2025)
-     - `v4.2.1.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v4.2.1.0>`_
+   * - **v4.3.2.1**
+     - Latest stable (15 Apr 2026)
+     - `v4.3.2.1 <https://github.com/kanors-emr/Veda2.0-Installation/releases/latest>`_
    * - **v3.2.2.0**
      - Final v3.x release (17 Nov 2024)
      - `v3.2.2.0 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v3.2.2.0>`_
