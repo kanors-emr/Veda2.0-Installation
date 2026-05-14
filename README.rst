@@ -12,7 +12,7 @@
    :alt: Platform
 
 .. |docs| image:: https://img.shields.io/badge/docs-readthedocs-8CA1AF?style=flat-square&logo=readthedocs
-   :target: https://veda-documentation.readthedocs.io/
+   :target: https://kanors-emr.github.io/Veda-documentation/
    :alt: Documentation
 
 ========
@@ -61,7 +61,7 @@ Veda 2.0 is designed around three core principles:
 2. **Transparency**: Complete visibility into model structure, data transformations, and GAMS code generation
 3. **Efficiency**: Streamlined workflows from data entry to results visualization, reducing time from hours to minutes
 
-For detailed philosophy and architecture, see the `Introduction <https://veda-documentation.readthedocs.io/en/latest/pages/introduction.html>`_.
+For detailed philosophy and architecture, see the `Introduction <https://kanors-emr.github.io/Veda-documentation/introduction/>`_.
 
 Key Enhancements Over Legacy Veda
 ----------------------------------
@@ -73,7 +73,7 @@ Key Enhancements Over Legacy Veda
 - **GAMS Engine Integration**: Cloud-based model runs and distributed solving
 - **Improved Performance**: Faster synchronization and result processing
 
-Read more about `key enhancements <https://veda-documentation.readthedocs.io/en/latest/pages/introduction.html#key-enhancements-over-the-legacy-version>`_.
+Read more about `key enhancements <https://kanors-emr.github.io/Veda-documentation/introduction/#key-enhancements-over-the-legacy-version>`_.
 
 ----
 
@@ -83,22 +83,22 @@ Key Components
 Veda 2.0 provides a comprehensive toolkit for TIMES modeling:
 
 **Navigator**
-  Hierarchical browsing of model structure with scenario management, data filtering, and synchronization. The `Navigator <https://veda-documentation.readthedocs.io/en/latest/pages/Navigator.html>`_ is your central hub for model exploration.
+  Hierarchical browsing of model structure with scenario management, data filtering, and synchronization. The `Navigator <https://kanors-emr.github.io/Veda-documentation/navigator/>`_ is your central hub for model exploration.
 
 **VEDA Tags**
-  Powerful Excel-based templating system for defining technologies, commodities, and parameters. Learn about `VEDA Tags <https://veda-documentation.readthedocs.io/en/latest/pages/VedaTags.html>`_ and transformation rules.
+  Powerful Excel-based templating system for defining technologies, commodities, and parameters. Learn about `VEDA Tags <https://kanors-emr.github.io/Veda-documentation/tags/>`_ and transformation rules.
 
 **Browse & Items Detail**
-  Explore model elements with detailed parameter views and relationships. See `Browse <https://veda-documentation.readthedocs.io/en/latest/pages/Browse.html>`_ and `Items Detail <https://veda-documentation.readthedocs.io/en/latest/pages/Items%20detail.html>`_.
+  Explore model elements with detailed parameter views and relationships. See `Browse <https://kanors-emr.github.io/Veda-documentation/browse/>`_ and `Items Detail <https://kanors-emr.github.io/Veda-documentation/items-detail/>`_.
 
 **Run Manager**
-  Submit model runs, manage GAMS execution, and organize output files. The `Run Manager <https://veda-documentation.readthedocs.io/en/latest/pages/Run_Manager.html>`_ supports batch processing and GAMS Engine integration.
+  Submit model runs, manage GAMS execution, and organize output files. The `Run Manager <https://kanors-emr.github.io/Veda-documentation/run-manager/>`_ supports batch processing and GAMS Engine integration.
 
 **Results & Reports**
-  Import optimization results and create custom visualizations with interactive charts and Sankey diagrams. Explore `Results <https://veda-documentation.readthedocs.io/en/latest/pages/Results.html>`_ and `Reports <https://veda-documentation.readthedocs.io/en/latest/pages/Reports.html>`_.
+  Import optimization results and create custom visualizations with interactive charts and Sankey diagrams. Explore `Results <https://kanors-emr.github.io/Veda-documentation/results/>`_ and `Reports <https://kanors-emr.github.io/Veda-documentation/reports/>`_.
 
 **Model Info**
-  Access TIMES attributes, VEDA tags reference, and model metadata. See `Model Info <https://veda-documentation.readthedocs.io/en/latest/pages/Model%20Info.html>`_.
+  Access TIMES attributes, VEDA tags reference, and model metadata. See `Model Info <https://kanors-emr.github.io/Veda-documentation/model-info/>`_.
 
 ----
 
@@ -125,7 +125,7 @@ The configuration below is suitable for typical TIMES models:
 | **HDD**   | 500 GB free space                 | 1 TB for Veda and GAMS files               |
 +-----------+-----------------------------------+--------------------------------------------+
 
-For complete requirements, see `Hardware/software requirement <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#hardware-software-requirement>`_.
+For complete requirements, see `Hardware/software requirement <https://kanors-emr.github.io/Veda-documentation/getting-started/#hardwaresoftware-requirement>`_.
 
 ----
 
@@ -200,7 +200,7 @@ Option 2: Installer
       # Run as Administrator
       netsh advfirewall firewall add rule name="Veda 2.0" dir=in action=allow protocol=TCP localport=65000
 
-📖 For detailed step-by-step instructions with screenshots, see the `installation guide <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#installation>`_ and watch the `installation video <https://youtu.be/QQzZi2_vWBs>`_.
+📖 For detailed step-by-step instructions with screenshots, see the `installation guide <https://kanors-emr.github.io/Veda-documentation/getting-started/#installation>`_ and watch the `installation video <https://youtu.be/QQzZi2_vWBs>`_.
 
 ----
 
@@ -216,7 +216,7 @@ GAMS (General Algebraic Modeling System) is required to run TIMES models. After 
 2. Configure GAMS path in Veda 2.0 settings
 3. Verify solver licenses (CPLEX, CBC, or other supported solvers)
 
-For complete GAMS setup instructions, see `Setting up GAMS <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#setting-up-gams>`_.
+For complete GAMS setup instructions, see `Setting up GAMS <https://kanors-emr.github.io/Veda-documentation/getting-started/#setting-up-gams>`_.
 
 Backup and Restore
 ------------------
@@ -227,7 +227,7 @@ Regular backups are essential for protecting your model data:
 - **Restore**: Import from previous backups when needed
 - **Version Control**: Track changes and rollback if necessary
 
-Learn more about `Backup and Restore <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#backup-and-restore>`_ procedures.
+Learn more about `Backup and Restore <https://kanors-emr.github.io/Veda-documentation/getting-started/#backup-and-restore>`_ procedures.
 
 Updating Veda 2.0
 -----------------
@@ -236,7 +236,7 @@ Updating Veda 2.0
 
 **Installer Version**: Run the new installer, which will upgrade the existing installation.
 
-See `Updating <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#updating>`_ for detailed upgrade procedures.
+See `Updating <https://kanors-emr.github.io/Veda-documentation/getting-started/#updating>`_ for detailed upgrade procedures.
 
 ----
 
@@ -246,18 +246,18 @@ Quick Start
 After installation:
 
 1. **Launch Veda 2.0** from the installation directory
-2. **Obtain a trial license** — `Request trial license <https://veda-documentation.readthedocs.io/en/latest/pages/License%20operations.html#trial-license>`_
+2. **Obtain a trial license** — `Request trial license <https://kanors-emr.github.io/Veda-documentation/license-operations/#trial-license>`_
 3. **Load a sample model** or import your existing TIMES model
 4. **Explore the tutorials** — `Watch on YouTube <https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y>`_
 
 **Next Steps**
 
-- Review the `Start Page <https://veda-documentation.readthedocs.io/en/latest/pages/Start%20page.html>`_ components and workflow
-- Learn about `Navigator <https://veda-documentation.readthedocs.io/en/latest/pages/Navigator.html>`_ for model management
-- Understand `VEDA Tags <https://veda-documentation.readthedocs.io/en/latest/pages/VedaTags.html>`_ for data templates
-- Explore the `Run Manager <https://veda-documentation.readthedocs.io/en/latest/pages/Run_Manager.html>`_ for model execution
+- Review the `Start Page <https://kanors-emr.github.io/Veda-documentation/start-page/>`_ components and workflow
+- Learn about `Navigator <https://kanors-emr.github.io/Veda-documentation/navigator/>`_ for model management
+- Understand `VEDA Tags <https://kanors-emr.github.io/Veda-documentation/tags/>`_ for data templates
+- Explore the `Run Manager <https://kanors-emr.github.io/Veda-documentation/run-manager/>`_ for model execution
 
-For migrating from legacy Veda-FE/BE, consult the `Migration Guide <https://veda-documentation.readthedocs.io/en/latest/pages/Migration.html>`_.
+For migrating from legacy Veda-FE/BE, consult the `Migration Guide <https://kanors-emr.github.io/Veda-documentation/migration/>`_.
 
 ----
 
@@ -277,12 +277,12 @@ Veda 2.0 offers flexible licensing options:
 
 For complete details on licensing, pricing, and regulations, see:
 
-- `Licensing <https://veda-documentation.readthedocs.io/en/latest/pages/introduction.html#licensing>`_ overview
-- `Pricing <https://veda-documentation.readthedocs.io/en/latest/pages/introduction.html#pricing>`_ structure
-- `License Agreement <https://veda-documentation.readthedocs.io/en/latest/pages/License%20Agreement.html>`_ terms
-- `License Operations <https://veda-documentation.readthedocs.io/en/latest/pages/License%20operations.html>`_ guide
+- `Licensing <https://kanors-emr.github.io/Veda-documentation/introduction/#licensing>`_ overview
+- `Pricing <https://kanors-emr.github.io/Veda-documentation/introduction/#pricing>`_ structure
+- `License Agreement <https://kanors-emr.github.io/Veda-documentation/license-agreement/>`_ terms
+- `License Operations <https://kanors-emr.github.io/Veda-documentation/license-operations/>`_ guide
 
-To activate or manage your license, see `Activate/Deactivate License <https://veda-documentation.readthedocs.io/en/latest/pages/License%20operations.html#activate-deactivate-license>`_.
+To activate or manage your license, see `Activate/Deactivate License <https://kanors-emr.github.io/Veda-documentation/license-operations/#activatedeactivate-license>`_.
 
 ----
 
@@ -311,14 +311,14 @@ Previous major versions are available for users who need them:
      - Final v1.x release
      - Available in Older versions folder
 
-For complete release history with changelogs, see `Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_ (50+ releases documented).
+For complete release history with changelogs, see `Version History <https://kanors-emr.github.io/Veda-documentation/version-history/>`_ (50+ releases documented).
 
 ----
 
 Documentation
 =============
 
-Comprehensive documentation is available at `veda-documentation <https://veda-documentation.readthedocs.io/>`_:
+Comprehensive documentation is available at `veda-documentation <https://kanors-emr.github.io/Veda-documentation/>`_:
 
 **Getting Started**
 
@@ -326,13 +326,13 @@ Comprehensive documentation is available at `veda-documentation <https://veda-do
    :widths: 40 60
    :header-rows: 0
 
-   * - `Introduction <https://veda-documentation.readthedocs.io/en/latest/pages/introduction.html>`_
+   * - `Introduction <https://kanors-emr.github.io/Veda-documentation/introduction/>`_
      - Philosophy, architecture, versions, and pricing
-   * - `Getting Started <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html>`_
+   * - `Getting Started <https://kanors-emr.github.io/Veda-documentation/getting-started/>`_
      - Installation, GAMS setup, backup/restore
-   * - `License Operations <https://veda-documentation.readthedocs.io/en/latest/pages/License%20operations.html>`_
+   * - `License Operations <https://kanors-emr.github.io/Veda-documentation/license-operations/>`_
      - Activate, deactivate, and manage licenses
-   * - `Migration Guide <https://veda-documentation.readthedocs.io/en/latest/pages/Migration.html>`_
+   * - `Migration Guide <https://kanors-emr.github.io/Veda-documentation/migration/>`_
      - Migrating from Veda-FE/BE to Veda 2.0
 
 **Core Features**
@@ -341,15 +341,15 @@ Comprehensive documentation is available at `veda-documentation <https://veda-do
    :widths: 40 60
    :header-rows: 0
 
-   * - `Navigator <https://veda-documentation.readthedocs.io/en/latest/pages/Navigator.html>`_
+   * - `Navigator <https://kanors-emr.github.io/Veda-documentation/navigator/>`_
      - Model browsing, scenarios, and SYNC operations
-   * - `VEDA Tags <https://veda-documentation.readthedocs.io/en/latest/pages/VedaTags.html>`_
+   * - `VEDA Tags <https://kanors-emr.github.io/Veda-documentation/tags/>`_
      - Excel templating system and transformation rules
-   * - `Run Manager <https://veda-documentation.readthedocs.io/en/latest/pages/Run_Manager.html>`_
+   * - `Run Manager <https://kanors-emr.github.io/Veda-documentation/run-manager/>`_
      - GAMS execution, batch runs, GAMS Engine
-   * - `Results <https://veda-documentation.readthedocs.io/en/latest/pages/Results.html>`_
+   * - `Results <https://kanors-emr.github.io/Veda-documentation/results/>`_
      - Result import and visualization
-   * - `Reports <https://veda-documentation.readthedocs.io/en/latest/pages/Reports.html>`_
+   * - `Reports <https://kanors-emr.github.io/Veda-documentation/reports/>`_
      - Custom charts and Sankey diagrams
 
 **Additional Resources**
@@ -362,9 +362,9 @@ Comprehensive documentation is available at `veda-documentation <https://veda-do
      - Complete YouTube playlist with step-by-step guides
    * - `🌍 Veda Users Map <https://www.kanors-emr.org/Veda2Users/Index.html>`_
      - Global community of Veda users
-   * - `📜 Version History <https://veda-documentation.readthedocs.io/en/latest/pages/version_history.html>`_
+   * - `📜 Version History <https://kanors-emr.github.io/Veda-documentation/version-history/>`_
      - Detailed changelog for all releases
-   * - `📋 Notes <https://veda-documentation.readthedocs.io/en/latest/pages/Notes.html>`_
+   * - `📋 Notes <https://kanors-emr.github.io/Veda-documentation/notes/>`_
      - Best practices and Veda conventions
 
 ----
@@ -375,14 +375,14 @@ Troubleshooting
 Common Issues and Solutions
 ---------------------------
 
-If you encounter problems, consult the `Troubleshooting <https://veda-documentation.readthedocs.io/en/latest/pages/Troubleshooting.html>`_ guide:
+If you encounter problems, consult the `Troubleshooting <https://kanors-emr.github.io/Veda-documentation/troubleshooting/>`_ guide:
 
 - **Deadlock Detected**: Database locking issues
 - **Excel Exceptions**: Excel integration problems
 - **GAMS Engine Credentials**: Configuration errors
 - **PostgreSQL Issues**: Database installation/uninstallation
 
-For uninstallation, see `Uninstallation <https://veda-documentation.readthedocs.io/en/latest/pages/Getting%20started.html#uninstallation>`_ and `Uninstalling Postgres <https://veda-documentation.readthedocs.io/en/latest/pages/Troubleshooting/Uninstalling%20Postgres.html>`_.
+For uninstallation, see `Uninstallation <https://kanors-emr.github.io/Veda-documentation/getting-started/#uninstallation>`_ and `Uninstalling Postgres <https://kanors-emr.github.io/Veda-documentation/trouble-uninstall-postgres/>`_.
 
 ----
 
@@ -396,7 +396,7 @@ Need help? Multiple support channels available:
    :header-rows: 0
 
    * - **📚 Documentation**
-     - `Complete user guide and reference <https://veda-documentation.readthedocs.io/>`_
+     - `Complete user guide and reference <https://kanors-emr.github.io/Veda-documentation/>`_
    * - **🎥 Video Tutorials**
      - `YouTube playlist <https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y>`_
    * - **🐛 Bug Reports**
@@ -404,9 +404,9 @@ Need help? Multiple support channels available:
    * - **💬 ETSAP Community**
      - `IEA-ETSAP Forum <https://iea-etsap.org/>`_
    * - **🔒 Data Privacy**
-     - `Privacy Policy <https://veda-documentation.readthedocs.io/en/latest/pages/Privacy%20policy.html>`_
+     - `Privacy Policy <https://kanors-emr.github.io/Veda-documentation/privacy-policy/>`_
    * - **📄 License Terms**
-     - `License Agreement <https://veda-documentation.readthedocs.io/en/latest/pages/License%20Agreement.html>`_
+     - `License Agreement <https://kanors-emr.github.io/Veda-documentation/license-agreement/>`_
 
 For commercial support, training, and consulting services, contact `KanORS-EMR <https://www.kanors-emr.org/>`_.
 
