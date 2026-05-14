@@ -11,7 +11,7 @@
 .. |platform| image:: https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows
    :alt: Platform
 
-.. |docs| image:: https://img.shields.io/badge/docs-readthedocs-8CA1AF?style=flat-square&logo=readthedocs
+.. |docs| image:: https://img.shields.io/badge/docs-MkDocs-8CA1AF?style=flat-square
    :target: https://kanors-emr.github.io/Veda-documentation/
    :alt: Documentation
 
