@@ -307,9 +307,6 @@ Previous major versions are available for users who need them:
    * - **v2.20.2.1**
      - Final v2.x release (18 Dec 2023)
      - `v2.20.2.1 <https://github.com/kanors-emr/Veda2.0-Installation/releases/tag/v2.20.2.1>`_
-   * - **v1.255.1.1**
-     - Final v1.x release
-     - Available in Older versions folder
 
 For complete release history with changelogs, see `Version History <https://kanors-emr.github.io/Veda-documentation/version-history/>`_ (50+ releases documented).
 
