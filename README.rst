@@ -1,4 +1,4 @@
-|release| |downloads| |platform| |docs|
+|release| |downloads| |prerequisites| |platform| |docs|
 
 .. |release| image:: https://img.shields.io/github/v/release/kanors-emr/Veda2.0-Installation?style=flat-square&color=0078D4
    :target: https://github.com/kanors-emr/Veda2.0-Installation/releases/latest
@@ -7,6 +7,10 @@
 .. |downloads| image:: https://img.shields.io/github/downloads/kanors-emr/Veda2.0-Installation/total?style=flat-square&color=28A745
    :target: https://github.com/kanors-emr/Veda2.0-Installation/releases
    :alt: Total Downloads
+
+.. |prerequisites| image:: https://img.shields.io/badge/prerequisites-Google_Drive-34A853?style=flat-square&logo=googledrive
+   :target: https://drive.google.com/drive/folders/13pL96teMBjfM5p5YVpQfpjUK8rHh7mEc
+   :alt: Download Prerequisites
 
 .. |platform| image:: https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows
    :alt: Platform
@@ -24,6 +28,16 @@ Veda 2.0
 Veda 2.0 is a powerful data handling system for `The Integrated MARKAL-EFOM System (TIMES) <https://iea-etsap.org/index.php/etsap-tools/model-generators/times>`_ — a bottom-up optimization model for energy-environment systems. Support for additional models like **OSeMOSYS** and **TEMOA** is currently in development.
 
 Built with C#.NET and PostgreSQL, Veda 2.0 runs natively on Windows and can operate on Mac via Windows emulators.
+
+.. image:: https://img.shields.io/badge/Download-Latest_Release-0078D4?style=flat&logo=github
+   :target: https://github.com/kanors-emr/Veda2.0-Installation/releases/latest
+   :alt: Download Latest Release
+   :align: center
+
+.. image:: https://img.shields.io/badge/Download-Prerequisites-34A853?style=flat&logo=googledrive
+   :target: https://drive.google.com/drive/folders/13pL96teMBjfM5p5YVpQfpjUK8rHh7mEc
+   :alt: Download Prerequisites
+   :align: center
 
 .. image:: https://img.shields.io/badge/Watch-Tutorial_Videos-FF0000?style=flat&logo=youtube
    :target: https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y
@@ -44,6 +58,7 @@ Built with C#.NET and PostgreSQL, Veda 2.0 runs natively on Windows and can oper
 - `Licensing`_
 - `Legacy Versions`_
 - `Documentation`_
+- `Important Links`_
 - `Troubleshooting`_
 - `Support`_
 
@@ -156,7 +171,7 @@ Option 1: Localhost (Recommended)
 
 1. **Download prerequisites**
    
-   `Download and install prerequisites <https://github.com/kanors-emr/Veda2.0-Installation/tree/master/Localhost%20Version%20Prerequisites>`_
+   `Download and install prerequisites <https://drive.google.com/drive/folders/13pL96teMBjfM5p5YVpQfpjUK8rHh7mEc>`_
    
    - .NET Framework 4.8
    - Visual C++ Redistributables (2015-2022 and 2017)
@@ -355,14 +370,21 @@ Comprehensive documentation is available at `veda-documentation <https://kanors-
    :widths: 40 60
    :header-rows: 0
 
-   * - `📺 Video Tutorials <https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y>`_
+   * - 📺 `Video Tutorials <https://www.youtube.com/playlist?list=PLED97cPMXPOm60xOKSwvmXaGIsQrjoM8Y>`_
      - Complete YouTube playlist with step-by-step guides
-   * - `🌍 Veda Users Map <https://www.kanors-emr.org/Veda2Users/Index.html>`_
+   * - 🌍 `Veda Users Map <https://www.kanors-emr.org/Veda2Users/Index.html>`_
      - Global community of Veda users
-   * - `📜 Version History <https://kanors-emr.github.io/Veda-documentation/version-history/>`_
+   * - 📜 `Version History <https://kanors-emr.github.io/Veda-documentation/version-history/>`_
      - Detailed changelog for all releases
-   * - `📋 Notes <https://kanors-emr.github.io/Veda-documentation/notes/>`_
+   * - 📋 `Notes <https://kanors-emr.github.io/Veda-documentation/notes/>`_
      - Best practices and Veda conventions
+
+----
+
+Important Links
+===============
+
+Quick access to VEDA 2.0 downloads, localhost prerequisites, documentation, and version history; GAMS and related modeling repositories; and the KanORS-EMR website, support forum, contact page, and license information is collected in the `Important Links page <important-links.md>`_.
 
 ----
 
